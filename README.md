@@ -1,4 +1,4 @@
-# Reproducible-Research-Assignment
+# Reproducible-Research-Assignment-Activity Monitoring devices and patterns.
 
 Introduction
 
